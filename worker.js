@@ -1,10 +1,10 @@
 // Start Main Configuration
 const config = {
 // Google API Config
-GOOGLE_CLIENT_ID: "", // Required | It looks like => (1234567890.apps.googleusercontent.com)
-GOOGLE_CLIENT_SECRET: "", // Required | Random code of upper and lower case letters, numbers and symbols
-GOOGLE_REFRESH_TOKEN: "", // Required | Random code of upper and lower case letters, numbers, and symbols with the prefix 1/
-DESTINATION_FOLDER_ID: "", // Required | Find this in the URL when you open your Google Drive Folder
+GOOGLE_CLIENT_ID: "126619545137-j6u6m7pb2a7ir0j01mpufh1r4t7bnoj3.apps.googleusercontent.com", // Required | It looks like => (1234567890.apps.googleusercontent.com)
+GOOGLE_CLIENT_SECRET: "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", // Required | Random code of upper and lower case letters, numbers and symbols
+GOOGLE_REFRESH_TOKEN: "1//04pF0YslEuR3aCgYIARAAGAQSNwF-L9IrPyD96B083iVMMiSo59GFiQLhOQcvBKqRPzZrDoYm43FcG4mtocdeowilL19p0J2KdVc", // Required | Random code of upper and lower case letters, numbers, and symbols with the prefix 1/
+DESTINATION_FOLDER_ID: "https://drive.google.com/drive/folders/1Ih0W4M9ywQ3p1R3UvdZZy9a9u2dsmP3T", // Required | Find this in the URL when you open your Google Drive Folder
 
 // Site Config
 PAGE_TITLE: "", // Optional
